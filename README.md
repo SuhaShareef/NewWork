@@ -1,0 +1,1 @@
+# NewWork This is a simple website build with HTML,CSS,Bootstrap.In the first page after scrolling down you have found many option.When you click Material Requisition you will see another page. In that page you will see an user interface on Create Material Requisition and In report option you can see the report.There also login and signup UI.
